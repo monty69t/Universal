@@ -256,7 +256,7 @@ letter-spacing: 0.2em;
     font-size: 6em; 
   }
   .fon-info  {
-    top: 50%; 
+    top: 60%; 
     left: 5%;
     max-width: 380px;
   }
@@ -279,24 +279,7 @@ letter-spacing: 0.2em;
 }
 }
 
-@media (max-width: 480px) {
-  .at-item-fon {
-    font-size: 4.5em;
-  }
-}
 
-	@keyframes focus-in-expand {
-			
-		0% {
-			letter-spacing:-.5em;
-			filter:blur(12px);
-			opacity:0;
-		}
-		100% {
-			filter:blur(0);
-			opacity:1;
-		}
-	}
 
 
 #about h2 {
@@ -826,6 +809,7 @@ letter-spacing: 0.2em;
   }
 
 }
+
 
 
 
