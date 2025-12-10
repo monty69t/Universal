@@ -31,7 +31,7 @@
 
 @font-face {
   font-family: 'Lato';
-  src: url('../CormorantGaramond-VariableFont_wght.ttf') format('truetype');
+  src: url('/CormorantGaramond-VariableFont_wght.ttf') format('truetype');
   font-weight: 800;
   font-style: normal;
   font-display: swap;
@@ -39,7 +39,7 @@
 
 @font-face {
   font-family: 'Lato';
-  src: url('../Lato-ExtraLight.ttf') format('truetype');
+  src: url('/Lato-ExtraLight.ttf') format('truetype');
   font-weight: 500;
   font-style: normal;
   font-display: swap;
@@ -826,5 +826,6 @@ letter-spacing: 0.2em;
   }
 
 }
+
 
 
