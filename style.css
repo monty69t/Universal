@@ -256,7 +256,7 @@ letter-spacing: 0.2em;
     font-size: 6em; 
   }
   .fon-info  {
-    top: 30%; 
+    top: 50%; 
     left: 5%;
     max-width: 380px;
   }
@@ -826,6 +826,7 @@ letter-spacing: 0.2em;
   }
 
 }
+
 
 
 
