@@ -542,7 +542,7 @@ letter-spacing: 0.2em;
   }
 
   .service-card {
-    width: 390px;
+    width: 350px;
     height: 200px; /* ✅ Уменьшаем высоту */
   }
 }
@@ -809,6 +809,7 @@ letter-spacing: 0.2em;
   }
 
 }
+
 
 
 
