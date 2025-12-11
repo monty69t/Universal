@@ -160,6 +160,8 @@ div.at-container {
 @media (max-width: 768px) {
   .fon {
     height: 530px;
+	  backdrop-filter: blur(5px);
+    background-image: url('fon02.png');
   }
 }
 
@@ -809,6 +811,7 @@ letter-spacing: 0.2em;
   }
 
 }
+
 
 
 
